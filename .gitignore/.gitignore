@@ -1,0 +1,2954 @@
+#EXTINF:0 group-title="(AF) Afghanistan",1 TV | SD (AF)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3048.m3u8
+
+#EXTINF:0 group-title="(AF) Afghanistan",AL WAAD | SD (AF)
+http://bcoveliveios-i.akamaihd.net/hls/live/224241/4303072782001/master.m3u8
+
+#EXTINF:0 group-title="(AF) Afghanistan",TUTI | SD (AF)
+http://hls1.livestreamingcdn.com/livecdn827/myStream.sdp/playlist.m3u8
+
+#EXTINF:0 group-title="(AFR) Africa",CHANNEL ONE | SD (AFR)
+http://streams.almaata.kcell.lfstrm.tv/perviy_evrasia/1/index.m3u8
+
+#EXTINF:0 group-title="(AFR) Africa",TAYBA TV | SD (AFR)
+http://199.167.151.237:1935/live/sp15_17.stream/gmswf.m3u8
+
+#EXTINF:0 group-title="(AFR) Africa",TAYBA TV | SD (AFR)
+http://tayba.live.net.sa:1935/tayba/taybatv/chunklist_w1376954935.m3u8
+
+#EXTINF:0 group-title="(AFR) Africa",TV 1 | SD (AFR)
+http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
+
+#EXTINF:0 group-title="(AFR) Africa",TV 2 | SD (AFR)
+http://196.28.226.121:1935/live/smil:Channel2.smil/playlist.m3u8
+
+#EXTINF:0 group-title="(AL) Albania",AOULA LAAYOUNE | SD (AL)
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+
+#EXTINF:0 group-title="(AL) Albania",DAFRAH TV | SD (AL)
+http://live.aldafrah.tv:1935/live/myStream3/playlist.m3u8
+
+#EXTINF:0 group-title="(AL) Albania",DIGI GOLD | SD (AL)
+http://ipsatpro.com:8080/live/ivan003/ivan003/233.m3u8
+
+#EXTINF:0 group-title="(AL) Albania",HADATH | SD (AL)
+http://starmena.ercdn.net/libya-alhadath/libya-alhadath.m3u8
+
+#EXTINF:0 group-title="(AL) Albania",HAYAT 2 EGYPT | SD (AL)
+http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/FluxusTV.m3u8
+
+#EXTINF:0 group-title="(AL) Albania",HIWAR | SD (AL)
+http://mn-i.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_w1138816254_b1264000.m3u8
+
+#EXTINF:0 group-title="(AL) Albania",JAZEERA | SD (AL)
+http://199.167.151.237:1935/live/sp15_9.stream/gmswf.m3u8
+
+#EXTINF:0 group-title="(AL) Albania",JAZEERA DOCUMENTARY | SD (AL)
+http://199.167.151.237:1935/live/sp15_8.stream/gmswf.m3u8
+
+#EXTINF:0 group-title="(AL) Albania",KINO AKSION | SD (AL)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1390.m3u8
+
+#EXTINF:0 group-title="(AL) Albania",KINO PREMIERE 2 | HD (AL)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1386.m3u8
+
+#EXTINF:0 group-title="(AL) Albania",KINO PREMIERE 3 | HD (AL)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1388.m3u8
+
+#EXTINF:0 group-title="(AL) Albania",KINO THRILER | HD (AL)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1389.m3u8
+
+#EXTINF:0 group-title="(AL) Albania",NABAA | SD (AL)
+http://www.elahmad.com/tv/m3u8/edgecastcdn.m3u8
+
+#EXTINF:0 group-title="(AL) Albania",NABAA | SD (AL)
+http://cdg3.edge.tmed.pw/alnabaatv/abr/alnabaatv/live_1024p/chunks.m3u8
+
+#EXTINF:0 group-title="(AL) Albania",RAHMA TV EGYPT | SD (AL)
+http://199.167.151.237:1935/live/sp15_11.stream/gmswf.m3u8
+
+#EXTINF:0 group-title="(AL) Albania",RESALAH KUWAIT | SD (AL)
+http://199.167.151.237:1935/live/sp15_28.stream/gmswf.m3u8
+
+#EXTINF:0 group-title="(AL) Albania",SHQIPTV AKSION | HD (AL)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3482.m3u8
+
+#EXTINF:0 group-title="(AL) Albania",SHQIPTV FILM | HD (AL)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3483.m3u8
+
+#EXTINF:0 group-title="(AL) Albania",TANASUH TV | SD (AL)
+http://m.live.net.sa:1935/m/tanasuhtv/chunklist_w2048734625.m3u8
+
+#EXTINF:0 group-title="(AL) Albania",TANASUH TV LIBYA | SD (AL)
+http://m.live.net.sa:1935/m/ngrp:tanasuhtv_all/playlist.m3u8
+
+#EXTINF:0 group-title="(AL) Albania",TOYOR JANAH TV | SD (AL)
+http://199.167.151.237:1935/live/sp15_12.stream/gmswf.m3u8
+
+#EXTINF:0 group-title="(AL) Albania",WATAN | SD (AL)
+http://streaming.i-sat.tv:1935/live/libyaelwatan/chunklist_w391917388.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",1 TV | SD (AR)
+http://199.167.151.237:1935/live/sp15_30.stream/gmswf.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",2M MAROC | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/135.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",4G AFLAM | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/61.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",4G CIMA | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/4330.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",4G CINMA | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2300.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",4G CLASSIC | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/4331.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",4G DRAMA | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/21.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",4G FILM | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/4332.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",4SHBAB | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/123.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",ABU DHABI DRAMA | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/55.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",ABU DHABI EMARAT | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/39.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",AEO GERAPHIC | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2303.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",AFAQ | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2285.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",AFRAH TV | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/86.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",AGHAPY | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2218.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",AL AHLY TV | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2322.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",AL AL KARIM | SD (AR)
+http://199.167.151.237:1935/live/sp15_14.stream/gmswf.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",AL AOULA MAROC | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/140.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",AL ASSEMA | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2283.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",AL DJAZAIRIA | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/63.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",AL EMARAT TV | HD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/130.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",AL FADY | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2216.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",AL FATH | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2287.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",AL GAMEELA | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2324.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",AL HADATH | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/35.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",AL INSEN TV | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/143.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",AL JAMEELA | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2308.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",AL JAZEERA ARMENIA | SD (AR)
+http://ott-cdn.ucom.am/s69/index.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",AL JAZEERA DOCUMENTARY | HD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/31.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",AL JAZEERA MUBASHER | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2205.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",AL MAGHARIBIA | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2196.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",AL MAJD 3 | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2246.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",AL MAJD HOLY | SD (AR)
+http://199.167.151.237:1935/live/sp15_24.stream/gmswf.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",AL MAJD SCIENTIFIC | SD (AR)
+http://199.167.151.237:1935/live/sp15_29.stream/gmswf.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",AL SUNNAH AL NABAWIYAH | SD (AR)
+http://www.elahmad.com/tv/m3u8/sauditv.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",AL SUNNAH AL NABAWIYAH | SD (AR)
+http://199.167.151.237:1935/live/sp15_31.stream/gmswf.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",AL SUNNAH AL NABAWIYAH | SD (AR)
+https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel8/1.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",ALARABIA-ALHADATH | HD (AR)
+http://live.alhadath.net/hadath/myStream/chunklist.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",ARMENIA | SD (AR)
+http://ott-cdn.ucom.am/s9/index.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",AYAAT TV | SD (AR)
+http://m.live.net.sa:1935/live/ayat/chunklist_w1642024713.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",CANADIAN TV | SD (AR)
+http://192.226.228.32:8080/hls/catv/index.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",ERHABY TV | SD (AR)
+http://streamer12.elementssys.com:8080/SAUDI-Channels/Erhab/playlist.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",IQRAA | SD (AR)
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",IQRAA | SD (AR)
+http://199.167.151.237:1935/live/sp15_25.stream/gmswf.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",MAKKAH TV | SD (AR)
+http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",MAKKAH TV | SD (AR)
+http://199.167.151.237:1935/live/sp15_16.stream/gmswf.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",MAKKAH TV | SD (AR)
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel7/1.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",NAT GEO | SD (AR)
+http://adtv.ercdn.net/adnatgeo/adnatgeo_720p.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",NET PN ADRIAN KING | SD (AR)
+http://stream3.netmedia.com.mt:1935/live/smil:videojs.smil/chunklist_w1718472218_b296000.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OSN ANIMAL PLANET | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2383.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OSN BARAEM 2 | HD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2396.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OSN BOX OFFIEC 1 | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2419.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OSN BOX OFFIEC 2 | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2418.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OSN BOX OFFIEC 3 | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2417.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OSN DEMAND 3 | HD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2388.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OSN DISCOVRY | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2430.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OSN DISCOVRY ID | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2431.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OSN DISCOVRY SCI ID | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2432.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OSN DREAM WORKS | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2403.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OSN E | HD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2381.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OSN FATAFEAT | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2362.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OSN FIRST | HD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2423.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OSN FOX | HD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2402.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OSN FX | HD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2422.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OSN GROUMMET | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2421.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OSN GULLI | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2363.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OSN HISTORY 2 | HD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2361.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OSN MBC DRAMA | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2387.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OSN MBC VARIETY | HD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2397.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OSN MOUSALSALAT | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2398.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OSN NAT GEO PEOPLE | HD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2429.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OSN NAT GEO WILD | HD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2357.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OSN NATIONAL GEO | HD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2358.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OSN OUTDOOR | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2404.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OSN SEEVII AL AOULA | HD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2365.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OSN SEEVII BEELINK | HD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2368.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OSN SEEVII DRAMA | HD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2366.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OSN SEEVII PRIME 1 | HD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2399.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OSN SEEVII PRIME 2 | HD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2386.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OSN SEEVII SHAMIYA | HD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2367.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OSN SYFY | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2392.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OSN YAHLA | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2420.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OTV | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/26.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OTV 2 | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3729.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OTV 3 | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3730.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",OTV 4 | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3731.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",PALESTINE | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/128.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",PALESTINE LIVE | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2317.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",PALESTINE TODAY | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2318.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",PALESTINE TV | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2316.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",PANORAMA DRAMA | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/77.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",PANORAMA DRAMA 2 | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/25.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",PANORAMA FILM | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/98.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",PANORAMA FOOD | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2294.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",PANORAMA YOM | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/155.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",RASHID TV | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2219.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",ROTANA CINMA | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/81.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",ROTANA CLASSIC | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/82.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",ROTANA CLIP | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/83.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",ROTANA KHALIJIAH | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/72.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",ROTANA MASRIYA | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/80.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",ROYA | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2343.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",RUSSIYA AL YAUM | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2198.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",SADA ALBALAD | HD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/51.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",SADA ALBALAD 2 | HD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/156.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",SADA ALBALAD DRAMA | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/116.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",SALAM TV | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2320.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",SAMA DUBAI | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/29.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",SAMA TV | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2327.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",SAMIRA TV | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2189.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",SAN3A | HD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2306.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",SAT 7 | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2334.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",SCARE TV | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2289.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",SEMSEM | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2315.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",SHA3BEYAT | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/118.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",SHARQIYA | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/133.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",SPACETOON | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/114.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",SUDAN 2 | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2312.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",SUDAN 4 | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2314.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",SUDAN DRAMA | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3734.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",SUDAN TAYBA | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3733.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",SUDAN TV | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/157.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",SUMARIA TV | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2340.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",SYRIA LKHBARIA | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/142.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",SYRIAN DRAMA | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/52.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",TAMAZIGH 4 | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2190.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",TAMAZIGHT MAROC | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/106.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",TAYBA LOCAL | SD (AR)
+http://tayba.live.net.sa:1935/tayba/taybatv/chunklist_w1656537089.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",TELE LEBANON 2 | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3738.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",TELE LEBANON 4 | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3739.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",TELE LEBANON 7 | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3740.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",TELE LEBANON TV | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/102.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",TELVZATV | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/134.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",TEN | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/87.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",TIME COMEDY | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/150.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",TLC | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/71.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",TOKTOK CINMA | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/64.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",TOYOR ALJANAH | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/129.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",TRATEL | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2301.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",TRT ARAPCA | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2232.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",TUNIS FIRST | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/19.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",UAE | SD (AR)
+http://www.elahmad.com/tv/m3u8/arabiya.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",WANASA | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/126.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",YEMEN SHABAB | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2292.m3u8
+
+#EXTINF:0 group-title="(AR) Arabia",ZAYTOUNA | SD (AR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/17.m3u8
+
+#EXTINF:0 group-title="(ARG) Argentina",18 CARNAVAL | SD (ARG)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1044.m3u8
+
+#EXTINF:0 group-title="(ARG) Argentina",CHILEVISION LT | SD (ARG)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2666.m3u8
+
+#EXTINF:0 group-title="(ARG) Argentina",MEGA LT | SD (ARG)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2678.m3u8
+
+#EXTINF:0 group-title="(ARG) Argentina",PINGUINO TV LT | SD (ARG)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2584.m3u8
+
+#EXTINF:0 group-title="(ARG) Argentina",PORTAL FOXMIX LT | SD (ARG)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2676.m3u8
+
+#EXTINF:0 group-title="(ARG) Argentina",TVN | HD (ARG)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1006.m3u8
+
+#EXTINF:0 group-title="(ARG) Argentina",UC13 LT | SD (ARG)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2675.m3u8
+
+#EXTINF:0 group-title="(ARG) Argentina",VTV | SD (ARG)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1052.m3u8
+
+#EXTINF:0 group-title="(BE) Belgium",2BE | HD (BE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/387.m3u8
+
+#EXTINF:0 group-title="(BE) Belgium",ACHT | SD (BE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/388.m3u8
+
+#EXTINF:0 group-title="(BE) Belgium",BX1 | SD (BE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/394.m3u8
+
+#EXTINF:0 group-title="(BE) Belgium",CANVAS | HD (BE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/731.m3u8
+
+#EXTINF:0 group-title="(BE) Belgium",CAZ | SD (BE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/405.m3u8
+
+#EXTINF:0 group-title="(BE) Belgium",CLUB RTL | SD (BE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/386.m3u8
+
+#EXTINF:0 group-title="(BE) Belgium",EEN | HD (BE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/730.m3u8
+
+#EXTINF:0 group-title="(BE) Belgium",KADET | SD (BE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/393.m3u8
+
+#EXTINF:0 group-title="(BE) Belgium",LA UNE | SD (BE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/385.m3u8
+
+#EXTINF:0 group-title="(BE) Belgium",NATIONAL GEOGRAPHIC | SD (BE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/406.m3u8
+
+#EXTINF:0 group-title="(BE) Belgium",PLUG RTL | SD (BE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/384.m3u8
+
+#EXTINF:0 group-title="(BE) Belgium",THE LIGHT TV NETHERLANDS | SD (BE)
+http://54.38.193.109/btltv.m3u8
+
+#EXTINF:0 group-title="(BE) Belgium",VIJF | SD (BE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/391.m3u8
+
+#EXTINF:0 group-title="(BE) Belgium",VITAYA | SD (BE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/390.m3u8
+
+#EXTINF:0 group-title="(BE) Belgium",VTM | HD (BE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/389.m3u8
+
+#EXTINF:0 group-title="(BE) Belgium",VTM KZOOM | SD (BE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/404.m3u8
+
+#EXTINF:0 group-title="(BE) Belgium",ZES | SD (BE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/395.m3u8
+
+#EXTINF:0 group-title="(BG) Bulgaria",ETV | SD (BG)
+http://195.24.89.20/tvs/etv.m3u8
+
+#EXTINF:0 group-title="(BG) Bulgaria",HTV | HD (BG)
+https://59ce9bf092176.streamlock.net:1935/securestreaming/720.sdp/playlist.m3u8
+
+#EXTINF:0 group-title="(BG) Bulgaria",ROMA TV | HD (BG)
+http://185.46.161.3/hls/hd.m3u8
+
+#EXTINF:0 group-title="(CA) Canada",EET TV TAMIL | SD (CA)
+http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
+
+#EXTINF:0 group-title="(CA) Canada",MEGA COSMOS | SD (CA)
+http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
+
+#EXTINF:0 group-title="(CA) Canada",SALT AND LIGHT TV | SD (CA)
+http://livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
+
+#EXTINF:0 group-title="(CA) Canada",ZEE | SD (CA)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1760.m3u8
+
+#EXTINF:0 group-title="(FR) France",13EME RUE | HD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/347.m3u8
+
+#EXTINF:0 group-title="(FR) France",24 ARMENIA | SD (FR)
+http://ott-cdn.ucom.am/s25/index.m3u8
+
+#EXTINF:0 group-title="(FR) France",6TER | HD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/292.m3u8
+
+#EXTINF:0 group-title="(FR) France",A LA CARTE 1 | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/305.m3u8
+
+#EXTINF:0 group-title="(FR) France",A LA CARTE 10 | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/358.m3u8
+
+#EXTINF:0 group-title="(FR) France",A LA CARTE 2 | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/307.m3u8
+
+#EXTINF:0 group-title="(FR) France",A LA CARTE 3 | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/320.m3u8
+
+#EXTINF:0 group-title="(FR) France",A LA CARTE 4 | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/325.m3u8
+
+#EXTINF:0 group-title="(FR) France",A LA CARTE 5 | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/363.m3u8
+
+#EXTINF:0 group-title="(FR) France",A LA CARTE 6 | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/362.m3u8
+
+#EXTINF:0 group-title="(FR) France",A LA CARTE 7 | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/361.m3u8
+
+#EXTINF:0 group-title="(FR) France",A LA CARTE 8 | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/360.m3u8
+
+#EXTINF:0 group-title="(FR) France",A LA CARTE 9 | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/359.m3u8
+
+#EXTINF:0 group-title="(FR) France",AB1 | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/378.m3u8
+
+#EXTINF:0 group-title="(FR) France",ACTION | HD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/335.m3u8
+
+#EXTINF:0 group-title="(FR) France",ALSACE20 | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/376.m3u8
+
+#EXTINF:0 group-title="(FR) France",ANIMAUX | HD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/303.m3u8
+
+#EXTINF:0 group-title="(FR) France",ARTE | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/287.m3u8
+
+#EXTINF:0 group-title="(FR) France",BOING | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/295.m3u8
+
+#EXTINF:0 group-title="(FR) France",C 8 | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/316.m3u8
+
+#EXTINF:0 group-title="(FR) France",C STAR | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/338.m3u8
+
+#EXTINF:0 group-title="(FR) France",CANAL | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/328.m3u8
+
+#EXTINF:0 group-title="(FR) France",CANAL DECALE | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/315.m3u8
+
+#EXTINF:0 group-title="(FR) France",CANAL J | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/290.m3u8
+
+#EXTINF:0 group-title="(FR) France",CHERIE 25 | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/288.m3u8
+
+#EXTINF:0 group-title="(FR) France",DISCOVERY SCIENCE | HD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/323.m3u8
+
+#EXTINF:0 group-title="(FR) France",E! ENTERTAINMENT | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/372.m3u8
+
+#EXTINF:0 group-title="(FR) France",ENORME TV | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/367.m3u8
+
+#EXTINF:0 group-title="(FR) France",EQUIDIA LIVE | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/407.m3u8
+
+#EXTINF:0 group-title="(FR) France",FOOT 24 | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/351.m3u8
+
+#EXTINF:0 group-title="(FR) France",GULLI | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/286.m3u8
+
+#EXTINF:0 group-title="(FR) France",I-TELE | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/340.m3u8
+
+#EXTINF:0 group-title="(FR) France",LCI | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/346.m3u8
+
+#EXTINF:0 group-title="(FR) France",LEQUIPE 21 | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/370.m3u8
+
+#EXTINF:0 group-title="(FR) France",MANGA | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/343.m3u8
+
+#EXTINF:0 group-title="(FR) France",NATIIONAL GEO | HD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/324.m3u8
+
+#EXTINF:0 group-title="(FR) France",NRJ 12 | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/294.m3u8
+
+#EXTINF:0 group-title="(FR) France",NRJ HITS TV | SD (FR)
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
+
+#EXTINF:0 group-title="(FR) France",NT1 | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/293.m3u8
+
+#EXTINF:0 group-title="(FR) France",NUMERO 23 | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/302.m3u8
+
+#EXTINF:0 group-title="(FR) France",OCS CHOC | HD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/345.m3u8
+
+#EXTINF:0 group-title="(FR) France",OCS G | HD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/337.m3u8
+
+#EXTINF:0 group-title="(FR) France",OCS MAX | HD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/341.m3u8
+
+#EXTINF:0 group-title="(FR) France",OL TV | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/373.m3u8
+
+#EXTINF:0 group-title="(FR) France",PARIS PREMIERE | HD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/377.m3u8
+
+#EXTINF:0 group-title="(FR) France",PLAN | HD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/326.m3u8
+
+#EXTINF:0 group-title="(FR) France",PLANETE AEC | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/327.m3u8
+
+#EXTINF:0 group-title="(FR) France",QVC | SD (FR)
+http://qvcfrance.mmdlive.lldns.net/qvcfrance/fbffb6cd731a4f399c4695c9d81357d2/chunklist_b4192000.m3u8
+
+#EXTINF:0 group-title="(FR) France",RIE CLUB | HD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/331.m3u8
+
+#EXTINF:0 group-title="(FR) France",RMC DECOUVERTE | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/336.m3u8
+
+#EXTINF:0 group-title="(FR) France",RTL 9 | HD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/334.m3u8
+
+#EXTINF:0 group-title="(FR) France",RTS DEUX | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/339.m3u8
+
+#EXTINF:0 group-title="(FR) France",RTS UN | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/289.m3u8
+
+#EXTINF:0 group-title="(FR) France",RUSSIA TODAY | HD (FR)
+http://secure-streams.akamaized.net/rt-fr/index2500.m3u8
+
+#EXTINF:0 group-title="(FR) France",SCIENCES & VIE | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/354.m3u8
+
+#EXTINF:0 group-title="(FR) France",SYFY | HD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/348.m3u8
+
+#EXTINF:0 group-title="(FR) France",TCM | HD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/296.m3u8
+
+#EXTINF:0 group-title="(FR) France",TELESAMBRE | SD (FR)
+http://vm109.imust.org:1935/live/telesambre-live/playlist.m3u8
+
+#EXTINF:0 group-title="(FR) France",TELETOON | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/318.m3u8
+
+#EXTINF:0 group-title="(FR) France",TF1 | HD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/285.m3u8
+
+#EXTINF:0 group-title="(FR) France",TF1 SERIES & FILMS | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/319.m3u8
+
+#EXTINF:0 group-title="(FR) France",TOON NAME | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/375.m3u8
+
+#EXTINF:0 group-title="(FR) France",TOUTE L HISTOIRE | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/332.m3u8
+
+#EXTINF:0 group-title="(FR) France",TV MANA | SD (FR)
+http://c2.manasat.com:1935/eglise-online/frances2/playlist.m3u8
+
+#EXTINF:0 group-title="(FR) France",TV5 MONDE | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/333.m3u8
+
+#EXTINF:0 group-title="(FR) France",TV7 | SD (FR)
+http://tv7.hdr-tv.com/live/tv7/livestream/chunklist_w1089291400.m3u8
+
+#EXTINF:0 group-title="(FR) France",TVBREISH | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/309.m3u8
+
+#EXTINF:0 group-title="(FR) France",USHUAIA TV | HD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/329.m3u8
+
+#EXTINF:0 group-title="(FR) France",VOYAGE TV | SD (FR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/304.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",A PANTERA COR ROSA | SD (DE)
+http://tv.factoryiptv.com:80/live/joaquim/joaquim/39576.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",AIRE SANTA FE LT | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2609.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",CANAL LAS ESTRELLAS | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1048.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",LIGHT CHANNEL | SD (DE)
+http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",O INCRIVEL MUNDO GUMBALL | SD (DE)
+http://tv.factoryiptv.com:80/live/joaquim/joaquim/39774.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",RIO JANEIRO | SD (DE)
+http://tv.factoryiptv.com:80/live/joaquim/joaquim/40106.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",RIO JANEIRO | SD (DE)
+http://video3.earthcam.com/fecnetwork/6593.flv/playlist.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SANTUARIO FATIMA PORTUGAL | SD (DE)
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY 13TH STREET | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/780.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY 24 TV | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/796.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY 3SAT | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/781.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY ACTION | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/804.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY ARD | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/755.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY ARTE | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/756.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY ATLANTIC | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/798.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY AXN | HD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/760.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 1 | HD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/810.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 2 | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/831.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 3 | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/832.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 4 | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/833.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 5 | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/834.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 6 | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/835.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 7 | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/836.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 8 | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/837.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY BUNDESLIGA 9 | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/838.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY COMEDY | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/799.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY COMEDY CENTRAL | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/786.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY DMAX | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/770.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY EMOTION | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/801.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY FAMLY | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/748.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY FOX | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/787.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY HISTORY | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/762.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY HITS | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/802.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY KABEL 1 | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/763.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY KIKA | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/764.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY KINOWELT | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/791.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY KRIMI | HD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/803.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY N-TV | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/766.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY N24 | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/767.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY NAT GEO WILD | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/793.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY NATIONAL GEOGRAPHIC | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/792.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY NDR | HD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/768.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY ONE | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/753.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY ORF 2 | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/772.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY ORF ENIS | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/771.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY PHOENIX | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/769.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY PRO 7 | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/773.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY PRO 7 MAX | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/757.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY ROMANCE | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/765.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY RTL | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/779.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY RTL 2 | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/778.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY RTL C | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/775.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY RTL CRIME | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/752.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY RTL LIVING | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/813.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY RTL NITRO | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/776.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY RTL PASSION | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/774.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY RTL SUPER | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/800.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY SAT1 GOLD | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/777.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY SELECT 1 | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/825.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY SELECT 2 | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/824.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY SELECT 3 | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/823.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY SELECT 4 | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/822.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY SELECT 5 | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/821.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY SELECT 6 | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/820.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY SELECT 7 | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/819.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY SELECT 8 | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/818.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY SERVUS TV | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/784.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY SIXX | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/785.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY SONY | HD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/754.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY SRF 1 | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/783.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY TELECLUB PRIME | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/749.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY TELECLUB STAR | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/746.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY TNT COMEDY | HD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/811.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY TNT FILM | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/758.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY UNIVERSAL | HD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/812.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY VOX | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/788.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY WDR | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/789.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",SKY ZDF INFO | SD (DE)
+http://ipsatpro.com:8080/live/ivan003/ivan003/790.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",ALICE | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/665.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",ASLIVE3 | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/555.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",BOING | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/659.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",CANALE 10 | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/565.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",CANALE 5 | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/686.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",CANALE 7 | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1846.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",CARINA TV | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1841.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",CIELO | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/658.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",CLASSICA | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1856.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",COMEDY CENTRAL | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1869.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",CREMONA TV | SD (IT)
+http://cremona1.econcept.it/live/cremona1_high.isml/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:0 group-title="(IT) Italy",DEEJAY TV NOVE | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1854.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",DISCOVERY | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/630.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",DISCOVERY SCI | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1858.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",DISCOVERY T&L | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1859.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",FRISBEE | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1857.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",GAMBERO ROSSO | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1844.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",GIALLO | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1850.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",IRIS | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/676.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",JUWELO | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1845.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",LA 5 | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/556.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",LA7 | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/683.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",LAEFFE | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1868.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",MARCO POLO | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1855.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",MILAN CHANNEL | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1860.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",NATGEO PEOPLE | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/631.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",NATGEO WILD | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/632.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",NATIONAL GEO | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/633.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",ONDA TV | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1849.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",ORLER | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1871.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",PESCARE CACCIARE TV | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1867.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",PREMIUM ACTION | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/618.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",PREMIUM ACTION | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/626.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",PREMIUM CALCIO | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/607.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",PREMIUM COMEDY | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/620.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",PREMIUM CRIME | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/611.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",PREMIUM CRIME | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/621.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",PREMIUM EMOTION | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/622.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",PREMIUM ENERGY | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/623.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",PREMIUM ENERGY | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1872.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",PREMIUM JOY | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/624.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",PREMIUM STORIES | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/614.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",PREMIUM STORIES | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/625.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",PREMIUM STUDIO UNIVERSAL | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/619.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",RAI 1 | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/693.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",RAI 2 | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/692.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",RAI 3 | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/691.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",RAI 4 | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/690.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",RAI 5 | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/563.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",RAI GULP | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/552.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",RAI PREMIUM | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/583.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",RAI YOYO | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/553.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",REAL TIME | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/684.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",RETE 4 | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1848.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",RSI LA1 | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/688.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",RSI LA2 | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/687.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SAT 2000 | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/662.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY ANIMAL PLANET | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/604.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY ATLANTIC | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1874.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY CALCIO 1 | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/642.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY CALCIO 2 | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/641.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY CALCIO 5 | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/567.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY CALCIO 6 | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/566.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY FOX | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1861.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY FOX COMEDY | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1864.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY FOX CRIME | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1863.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY FOX LIFE | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1862.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY HISTORY | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/634.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY MEDIASET 2 | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/661.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY MEDIASET EXTRA | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/603.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY PRIMA FILA 1 | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/601.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY PRIMA FILA 10 | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/592.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY PRIMA FILA 11 | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/591.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY PRIMA FILA 12 | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/590.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY PRIMA FILA 13 | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/589.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY PRIMA FILA 14 | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/588.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY PRIMA FILA 15 | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/587.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY PRIMA FILA 2 | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/600.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY PRIMA FILA 3 | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/599.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY PRIMA FILA 4 | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/598.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY PRIMA FILA 5 | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/597.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY PRIMA FILA 6 | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/596.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY PRIMA FILA 7 | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/595.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY PRIMA FILA 8 | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/594.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY PRIMA FILA 9 | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/593.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY PRIMA FILA WWE | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/586.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY ROMA CHANNEL | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/636.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY SIENATV | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/666.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY SUPERCALCIO | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/643.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY TG 24 | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/629.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY TOP CRIME | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/559.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SKY UNO | HD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/667.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SPIKE | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1870.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",SUPER | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/558.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",TELE VENEZIA | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1866.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",TELEPAVIA | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1843.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",TELERAMA | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/585.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",TG2000 | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/564.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",TRENTINO TV | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1842.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",TV 2000 | SD (IT)
+http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",TV 2000 | SD (IT)
+http://mi1.wz.tv2000.it/mirror/High/chunklist.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",TV 8 | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1851.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",TVM 1 DVR | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/571.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",TVM 2 DVR | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/570.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",VIDEOCALABRIA | SD (IT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/569.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",44 MEXICO | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2549.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",A3S | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2579.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",AMC | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2603.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",ANIMAL PLANET | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2643.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",ANTARES TV | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2671.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",ATOMIC | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2580.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",AZTECA CLIC | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2571.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",AZTECA CORAZON | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2559.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",AZTECA NOTICIAS | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1061.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",AZTECA UNO | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2583.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",AZTECAA | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1018.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",CANAL 10 CHETUMAL | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2565.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",CANAL 5 | HD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2622.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",CANAL ONCE | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2575.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",CANAL PROVINCIAL | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2629.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",CANAL SONY | HD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2618.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",CANAL22 | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2672.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",CGTN | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2592.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",CHANNEL 8 | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2610.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",COMEDY CENTRAL | HD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2633.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",COMEDY CENTRAL | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2630.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",COS | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2578.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",COSFC | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2612.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",DISCOVERY CIVILIZATION | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2646.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",DISCOVERY HOME | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2653.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",DISCOVERY HOME & HEALTH | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2652.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",DISCOVERY SCIENCE | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2650.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",DISCOVERY TLC | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2635.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",DISNY | HD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2638.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",DMX TV | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2581.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",E! ENTERTAINMENT | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2552.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",ECHO TV | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2555.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",EL 1 WEB TV | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2569.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",ELGOURMET | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2614.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",EXTREMA | HD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2607.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",FOX | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2658.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",FOX 1 | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2641.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",FOX ACTION | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2659.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",FOX CLASSICS | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2661.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",FXM | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2570.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",G PREMER | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2655.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",GOLDEN | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2567.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",GOLDEN EDGE | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2651.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",GONG | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2563.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",HB TV | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2637.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",LA MEGA MUNDIAL | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2667.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",LA SEMANA | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2648.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",LILFE TIME | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2636.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",MARBELLA TV | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2616.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",MAX PRIME ESTE | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2657.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",MEGA TV | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2557.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",MULTIMEDIOS | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2576.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",MUNDIAL FUTBOL OPTION 1 | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2680.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",MUNDIAL FUTBOL OPTION 10 | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2689.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",MUNDIAL FUTBOL OPTION 2 | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2681.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",MUNDIAL FUTBOL OPTION 3 | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2682.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",MUNDIAL FUTBOL OPTION 4 | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2683.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",MUNDIAL FUTBOL OPTION 5 | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2684.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",MUNDIAL FUTBOL OPTION 6 | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2685.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",MUNDIAL FUTBOL OPTION 7 | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2686.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",MUNDIAL FUTBOL OPTION 8 | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2687.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",MUNDIAL FUTBOL OPTION 9 | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2688.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",NATIONAL GEOGRAPHIC | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2647.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",NEOX | HD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2577.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",NEX TV | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2621.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",NOTICIAS FOROTV | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2606.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",PPV ROCK DOG | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2617.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",RAPORT | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2546.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",RELIGION | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2554.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",RTVA | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2649.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",SEVILLA FC TV | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2608.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",SONY | HD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2631.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",SPACE | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2677.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",TBS | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2556.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",TELPIN | HD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2560.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",TNT | HD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2634.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",TOONCAST | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2670.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",TRU TV | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2551.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",TRUE TV | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2664.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",TV MARTI | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2640.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",TV PUBLICA | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2673.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",TV3 | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2591.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",TVP MAZATL | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2553.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",UNIVERSAL CHANNEL | HD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2679.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",VE PLUS TV | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2623.m3u8
+
+#EXTINF:0 group-title="(LT) Lithuania",WARNER TV | SD (LT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2574.m3u8
+
+#EXTINF:0 group-title="(MX) Mexico",APRENDE TV CITY | SD (MX)
+http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlist.m3u8
+
+#EXTINF:0 group-title="(MX) Mexico",BBLACK | SD (MX)
+http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
+
+#EXTINF:0 group-title="(MX) Mexico",CANAL 20 | SD (MX)
+http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
+
+#EXTINF:0 group-title="(MX) Mexico",CANAL 4 | SD (MX)
+http://184.154.28.210:1935/canal4/canal4/live.m3u8
+
+#EXTINF:0 group-title="(MX) Mexico",CANAL 4 | SD (MX)
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+
+#EXTINF:0 group-title="(MX) Mexico",CANAL ONCE CITY | SD (MX)
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+#EXTINF:0 group-title="(MX) Mexico",CHAINE NORMANDE | SD (MX)
+http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
+
+#EXTINF:0 group-title="(MX) Mexico",CIELO TV | SD (MX)
+http://wan-lbf.net:1935/cielotv/myStream.sdp/playlist.m3u8
+
+#EXTINF:0 group-title="(MX) Mexico",COMUNION TV | SD (MX)
+http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8
+
+#EXTINF:0 group-title="(MX) Mexico",GALA TV CITY | SD (MX)
+http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
+
+#EXTINF:0 group-title="(MX) Mexico",INGENIO TV CITY | SD (MX)
+http://live10.cdnmedia.tv/dgtvelive/smil:ingen30.smil/playlist.m3u8
+
+#EXTINF:0 group-title="(MX) Mexico",MEGA MUNDIAL | SD (MX)
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+
+#EXTINF:0 group-title="(MX) Mexico",MESIAS TV | SD (MX)
+http://server120416w1.a1network.net:1935/elmesias/elmesias.sdp/playlist.m3u8
+
+#EXTINF:0 group-title="(MX) Mexico",MIAMI TV | SD (MX)
+http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/playlist.m3u8
+
+#EXTINF:0 group-title="(MX) Mexico",MICROVISION CANAL 10 | SD (MX)
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+
+#EXTINF:0 group-title="(MX) Mexico",TEN | HD (MX)
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+
+#EXTINF:0 group-title="(MX) Mexico",TOP | SD (MX)
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/master.m3u8
+
+#EXTINF:0 group-title="(MX) Mexico",TOP | SD (MX)
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
+
+#EXTINF:0 group-title="(MX) Mexico",TOP | SD (MX)
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
+
+#EXTINF:0 group-title="(MX) Mexico",TOP TV | SD (MX)
+http://173.236.60.186:1935/livetv/latinoSD.stream/playlist.m3u8
+
+#EXTINF:0 group-title="(MX) Mexico",TV4 VALL | SD (MX)
+http://188.165.135.22/15o8376r/mystream/chunklist_w511176900.m3u8
+
+#EXTINF:0 group-title="(MX) Mexico",XARXA | SD (MX)
+http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+
+#EXTINF:0 group-title="(NL) Netherlands",GO-TV | SD (NL)
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",8XM | SD (PK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3032.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",A PLUS | SD (PK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3013.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",AAJ ENTERTAINMENT | SD (PK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3033.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",ABBTAK | SD (PK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3020.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",APNA CHANNEL | SD (PK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3035.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",ARY | SD (PK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3022.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",ARY DIGTAL | SD (PK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3002.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",ARY QTV | SD (PK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3011.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",ARY ZAIQA | SD (PK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3024.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",ARY ZINDGAL | SD (PK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3006.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",BRATU MARIAN | SD (PK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3007.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",CHANNEL 24 | SD (PK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3003.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",EYE 95 TV | SD (PK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3008.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",FILM ASIA | SD (PK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3005.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",GEO ENTERTAINMENT | SD (PK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3012.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",GEO KAHANI | SD (PK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3025.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",GEO SUPER | SD (PK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3041.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",HUM TV | SD (PK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2999.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",HUM TV 2 | SD (PK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3000.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",JALWA | SD (PK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3043.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",MADNI CHANNEL | SD (PK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3019.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",MUJRA | SD (PK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3026.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",PAIGAM | SD (PK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3021.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",PAIGAM PUSHTO | SD (PK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3027.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",PAIGAM PUSHTO TV | SD (PK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3042.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",PAIGHAM TV | SD (PK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3015.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",PASHTO 1 | SD (PK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3028.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",PTV HOME | SD (PK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2995.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",PTV PRIME | SD (PK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3029.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",SAMAA TV | SD (PK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3009.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",SAMAY AALAMI | SD (PK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3014.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",STAGE DRAMA | SD (PK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3017.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",TEZ TV | SD (PK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3010.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",TV ONE | SD (PK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3018.m3u8
+
+#EXTINF:0 group-title="(PK) Pakistan",ZINDGL TV | SD (PK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3030.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",ABOLA TV | SD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/910.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",APARECIDA | SD (PT)
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",AXN | HD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/915.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",AXN BLACK | HD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/932.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",AXN WHITE | HD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/916.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",BENFICA TV 1 | SD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/900.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",CM TV | SD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/908.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",DISCOVERY | HD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/906.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",FOX | HD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/926.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",FOX COMEDY | SD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/923.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",FOX CRIME | SD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/901.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",FOX LIFE | HD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/925.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",GLOBO | SD (PT)
+http://tv.factoryiptv.com:80/live/joaquim/joaquim/37095.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",GLOBO EPTV RIBEIR | HD (PT)
+http://tv.factoryiptv.com:80/live/joaquim/joaquim/38640.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",GLOBO TV | HD (PT)
+http://tv.factoryiptv.com:80/live/joaquim/joaquim/38968.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",HOLLYWOOD | SD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/907.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",JIM JIM | SD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/918.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",PFC | SD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/911.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",PRIME BOX | SD (PT)
+http://tv.factoryiptv.com:80/live/joaquim/joaquim/37053.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",RECORD | SD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/917.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",REDE | SD (PT)
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",REDE FAMILIA | SD (PT)
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/chunklist_w1834697316_b300000.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",RTP 1 | SD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/895.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",RTP 2 | SD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/894.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",RTP ACORES | SD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/893.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",RTP MADEIRA | SD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/891.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",RTP MEMORIA | SD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/890.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",SIC | SD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/924.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",SIC CARAS | SD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/912.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",SIC K | SD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/919.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",SIC MULHER | SD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/913.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",SIC NOTICIAS | SD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/903.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",SIC RADICAL | SD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/914.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",SYFY | SD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/902.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",TLC | SD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/878.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",TOROS TV | SD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/909.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",TRAVEL CHANNEL | SD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/877.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",TV GIDOES | SD (PT)
+http://streaming02.zas.media:1935/gideoes/_definst_/mp4:programacao_360p/chunklist_w93290010.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",TV GLOBO | SD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/888.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",TV GLOBO PREMIUM | SD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/931.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",TV LT | SD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2564.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",TV RIO | SD (PT)
+http://186.227.165.118:1935/insatv/livestream/live.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",TV VERDADE | SD (PT)
+http://ocatv.mcgi.me:1935/public/247_es/live.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",TVI | SD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/889.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",TVI 24 | SD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/887.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",TVI FICCAO | SD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/886.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",VEVO 1 | HD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/898.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",VEVO 2 | HD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/897.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",VEVO 3 | HD (PT)
+http://ipsatpro.com:8080/live/ivan003/ivan003/896.m3u8
+
+#EXTINF:0 group-title="(PT) Portugal",WEBCAM | SD (PT)
+http://213.13.26.11:1935/live/santuario.stream/index.m3u8
+
+#EXTINF:0 group-title="(RO) Romania",DIGI 24 | SD (RO)
+http://edge126.rcs-rds.ro/digi24edge/digi24hdhqhls/chunklist_w1906258977.m3u8
+
+#EXTINF:0 group-title="(RU) Russia",8 KANAL | SD (RU)
+http://93.171.230.144:1935/8knsk-mpegts/stream1/playlist.m3u8
+
+#EXTINF:0 group-title="(RU) Russia",TODAY ARMENIA | SD (RU)
+http://ott-cdn.ucom.am/s96/index.m3u8
+
+#EXTINF:0 group-title="(RU) Russia",TODAY DOC ARMENIA | SD (RU)
+http://ott-cdn.ucom.am/s93/index.m3u8
+
+#EXTINF:0 group-title="(RU) Russia",TRAVEL GUIDE ARMENIA | SD (RU)
+http://ott-cdn.ucom.am/s80/index.m3u8
+
+#EXTINF:0 group-title="(RU) Russia",TV MANA | SD (RU)
+http://c2.manasat.com:1935/tserkov-online/russo2/playlist.m3u8
+
+#EXTINF:0 group-title="(EX-YU) Slovenia",CINMA | SD (EX-YU)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1797.m3u8
+
+#EXTINF:0 group-title="(EX-YU) Slovenia",LIFE TV | SD (EX-YU)
+http://86.110.233.68:1935/lifetv/lifetv.stream_360p/playlist.m3u8
+
+#EXTINF:0 group-title="(EX-YU) Slovenia",TV 14 | SD (EX-YU)
+http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
+
+#EXTINF:0 group-title="(EX-YU) Slovenia",TV 8 | SD (EX-YU)
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",24 HORAS | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1046.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",324 ENTERTAINMENT | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1005.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",AMC | HD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2589.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",ANTENA 3 | HD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1015.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",AXN | HD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2588.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",AXN WHITE | HD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1023.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",AZTECA 7 MONTERREY | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1035.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",BARCA TV | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1021.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",BOING | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2586.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",CALLE13 CHANNEL | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1009.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",CANAL | HD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1016.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",CANAL 4 | SD (SP)
+https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",CANAL ACTION | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1030.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",CANAL COMEDIA | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1031.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",CANAL CUATRO | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1026.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",CANAL DEPORTES | HD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1012.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",CANAL DEPORTES 2 | HD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2590.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",CANAL DIVINITY | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1039.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",CANAL ESTRENOS | HD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1059.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",CANAL FOX | HD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1029.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",CANAL FUTPOL | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1020.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",CANAL LIGA | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1022.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",CANAL LOGOS TV | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1041.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",CANAL NOVA | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1034.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",CANAL TOROS | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1049.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",CAZA Y PESCA | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1027.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",CLAN TVE | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1045.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",COMEDY CENTRAL | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1042.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",COSMO | HD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2587.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",ECOTV | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1047.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",FDF | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1007.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",FOX LIFE | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1060.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",GLOBO | HD (SP)
+http://tv.factoryiptv.com:80/live/joaquim/joaquim/37361.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",GLOBO | HD (SP)
+http://tv.factoryiptv.com:80/live/joaquim/joaquim/38424.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",GLOBO | SD (SP)
+http://tv.factoryiptv.com:80/live/joaquim/joaquim/37090.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",GOL TV | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2585.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",HISTORY | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1051.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",HOLLYWOOD | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1036.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",LA 1 | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1014.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",LA 2 | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1013.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",MIAMI TV | SD (SP)
+http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",MURO DAS LAMENTA | SD (SP)
+http://tv.factoryiptv.com:80/live/joaquim/joaquim/40110.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",NATIONAL GEOGRAPHIC | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1057.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",PLAZE TV | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1001.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",REAL MADRID | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1037.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",RTV | SD (SP)
+http://194.158.80.31:443/live/rtva/HasBahCa.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",RTVIDA | SD (SP)
+http://178.32.53.254/radiovida/livestream/playlist.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",SYFY | HD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1025.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",TAQUILLA 1 | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1071.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",TAQUILLA 10 | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1062.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",TAQUILLA 2 | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1070.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",TAQUILLA 3 | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1069.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",TAQUILLA 4 | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1068.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",TAQUILLA 5 | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1067.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",TAQUILLA 6 | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1066.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",TAQUILLA 7 | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1065.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",TAQUILLA 8 | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1064.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",TAQUILLA 9 | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1063.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",TCM | HD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1056.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",TELETICINO | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1008.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",TV SENADO | HD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2626.m3u8
+
+#EXTINF:0 group-title="(SP) Spain",VIAJAR | SD (SP)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1043.m3u8
+
+#EXTINF:0 group-title="(SE) Sweden",KANAL 10 | SD (SE)
+http://cdn-kanal10.crossnet.net:1935/kanal10no/mp4:live1/playlist.m3u8
+
+#EXTINF:0 group-title="(SE) Sweden",RTV ZIK | SD (SE)
+http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",ANIMAL PLANET | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1955.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",ATV | HD (TR)
+http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",ATV | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1978.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",ATV AVRUPA | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1957.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",BEIN BOX OFFICE 1 | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2167.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",BEIN BOX OFFICE 2 | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2175.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",BEIN BOX OFFICE 3 | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2176.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",BEYAZ TV | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1951.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",BREKET TV | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2173.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",BRT 1 | SD (TR)
+http://wms.brtk.net:1935/live/brt1/playlist.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",BRT 2 | SD (TR)
+http://wms.brtk.net:1935/live/brt2/playlist.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",CRIME | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1933.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",DA VINCI LEARNING | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2012.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",DIGI ANIMASYON | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2164.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",DISCOVERY CHANNLE | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2005.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",DISCOVERY IDX | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2160.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",DISCOVERY SCIENCE | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2025.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",DISCOVERY SHOWCASE | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2163.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",DMAX | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2027.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",DREAM | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1944.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",EGE TV | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2014.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",EURO D | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1952.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",FILM BOX KEMAL SUNAL TV | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2179.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",FOX CRIME TV | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2011.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",FOX TV | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1988.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",FX TV | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2010.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",HILAL TV | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1973.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",HISTORY CHANNLE | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2007.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",IDMAN TV AZER | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2015.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",KANAL | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1947.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",KANAL 7 | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1961.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",KANAL 7 AVRUPA | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1958.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",KANAL D | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1993.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",KANAL D | SD (TR)
+http://212.224.109.109/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",KANAL URFA | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1945.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",KIDZ / ANIMEZ TV | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1991.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",KRAL POP | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1972.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",KRAL TV | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1966.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",LIFE TIME | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2009.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",MAGIC BOX 1 | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1974.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",MAGIC BOX 2 | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1975.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",MAGICBOX KOMEDI | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2166.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",MAGICBOX WESTERN | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2168.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",MINIKA GO | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1963.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",MUZ TV | SD (TR)
+http://85.132.78.6:1935/live/muztv.stream/index.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",NATIONAL GEO PEOPLE | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2006.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",NATIONAL GEO WILD | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1985.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",NATIONAL GEOGRAPHIC | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1984.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",PLANET COCUK | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1986.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",POWER | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1946.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",SEMERKAND | SD (TR)
+http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",SEMERKANT TV | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2013.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",SHOW | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1989.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",SHOW TV | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1990.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",SINE ANIMASYON 1 | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2182.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",SINE ANIMASYON 3 | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2157.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",SINE ANIMASYON 4 | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2032.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",SINE ANIMASYON 5 | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2023.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",SINE ANIMASYON 6 | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1970.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",SINEMA KOMEDI | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2181.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",SINEMA TV | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2178.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",SINEMA TV 1001 | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2022.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",SINEMA TV 2 | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2024.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",SINEMA TV AILE | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2169.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",SINEMA TV AKSIYON | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1968.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",SINEMA YESILCAM | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2177.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",SINEMAX NOSTALGIA | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2162.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",SINETIVIADRENALIN 2 | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1935.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",SKYTURK 360 | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2172.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",SLTV ACTION | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2184.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",SLTV GOLD | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2183.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",SLTV KOMEDI | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2019.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",STAR TV | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1987.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",TARSUSGUNEYT | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2174.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",TELERO LT | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2604.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",TEVE 2 | HD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1962.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",TGRT HABER | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1949.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",TJK TV | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2008.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",TRT | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1979.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",TRT 1 | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1977.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",TRT AVAZ | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1983.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",TRT BELGESEL | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1937.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",TRT COCUK | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1940.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",TRT DIYANET | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1938.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",TRT MUZIK | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1971.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",TRT OKUL | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1939.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",TV 2 | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1960.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",TV 41 | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1954.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",TV KAYSERI | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2004.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",TV8 | SD (TR)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1980.m3u8
+
+#EXTINF:0 group-title="(UA) Ukraine",112 | HD (UA)
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+
+#EXTINF:0 group-title="(UA) Ukraine",112 | SD (UA)
+http://app.live.112.events/hls/112hd_mid/index.m3u8
+
+#EXTINF:0 group-title="(UA) Ukraine",112 | SD (UA)
+http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",AL JAZEERA ARMENIA | SD (UK)
+http://ott-cdn.ucom.am/s23/index.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",CLUB ARMENIA | SD (UK)
+http://ott-cdn.ucom.am/s37/index.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",COLORS | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3049.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",ID FASHION | SD (UK)
+http://95.67.8.22/hls/idfashion/index.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",MAATV | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2969.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",MTA | SD (UK)
+http://ooyalahd2-f.akamaihd.net:80/i/mtaorigin_delivery@353498/index_1100_av-p.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",PEACE TV UAE | SD (UK)
+http://199.167.151.237:1935/live/sp15_3.stream/gmswf.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",RISHTEY | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1801.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",RISHTEY 2 | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1826.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",RUSSIA TODAY | HD (UK)
+http://secure-streams.akamaized.net/rt-uk/index2500.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY 1 | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/475.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY 2 | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/507.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY 3E | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/432.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY 5 SPIK | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/525.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY 5 STAR | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/477.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY 5 STAR | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/505.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY ALIBI | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/509.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY ANIMAL PLANET | HD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/497.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY ARTS 1 | HD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/489.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY ATLANTIC | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/483.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CBS ACTION | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/481.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CBS DRAMA | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/482.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CBS REALITY | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/510.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CHANNEL 4 | HD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/426.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CHANNEL 5 | HD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/427.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CI | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/514.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CITV | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/436.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY COMEDY CENTRAL EX | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/462.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY DAVE | HD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/506.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY DISCOVERY | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/464.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY DISCOVERY HISTORY | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/491.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY DISCOVERY SCIENCE | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/526.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY DISCOVERY SHED | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/445.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY DISCOVERY TURBO | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/465.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY DMAX | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/456.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY E! ENTERTAINMENT | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/447.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY E4 | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/451.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY FINE LIVING NETWORK | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1544.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY FIVE | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/473.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY FOOD NETWORK | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/495.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY FOX | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/460.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY GOLD | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/508.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY HISTORY | HD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/496.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY HOME | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1553.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY HOME & HEALTH | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1547.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY ITV 1 | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/471.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY ITV 2 | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/470.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY ITV 3 | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/469.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY ITV 4 | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/468.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY ITV BE | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/429.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY KRONEHIT TV | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1545.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY LIFE TIME | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/476.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY LIVING | HD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/502.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY MORE 4 | HD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/504.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY NAT GEO WILD | HD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/498.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY PICK | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/437.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY QUEST | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1551.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY REALLY | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1552.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY ROK | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/531.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY RTE ONE | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/474.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY RTE ONE UP | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1568.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY RTE TWO | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/478.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY RTE TWO UP | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1569.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY S4C | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/435.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY STV | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/448.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SYFY | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/538.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY TCM | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/459.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY TLC | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/455.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY TRUE ENTERTAIMNT | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1546.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY TV3 | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/434.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY VIVA THE HITS | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/439.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY WATCH | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/523.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SONY ENTERTAINMENT | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1795.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",SUVARNATV | SD (UK)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3060.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",TLC | SD (UK)
+http://cshms2.airtel.tv/PLTV/88888888/224/3221226279/01.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",TV MANA | SD (UK)
+http://c2.manasat.com:1935/church-online/ingles2/playlist.m3u8
+
+#EXTINF:0 group-title="(US) United States",A&E | HD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1500.m3u8
+
+#EXTINF:0 group-title="(US) United States",A&E NETWORK | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1458.m3u8
+
+#EXTINF:0 group-title="(US) United States",ACTIONMAX | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1527.m3u8
+
+#EXTINF:0 group-title="(US) United States",AMAZING FACTS TV | SD (US)
+http://amazingfacts.live-s.cdn.bitgravity.com/cdn-live/_definst_/amazingfacts/live/feed01/chunklist_w1921345467.m3u8
+
+#EXTINF:0 group-title="(US) United States",AMC | HD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1534.m3u8
+
+#EXTINF:0 group-title="(US) United States",BETO TV | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1530.m3u8
+
+#EXTINF:0 group-title="(US) United States",BETTER HEALTH | SD (US)
+http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
+
+#EXTINF:0 group-title="(US) United States",BETTER LIFE | SD (US)
+http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
+
+#EXTINF:0 group-title="(US) United States",BETTER NATURE | SD (US)
+http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
+
+#EXTINF:0 group-title="(US) United States",BRAVO | HD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1507.m3u8
+
+#EXTINF:0 group-title="(US) United States",CBS | HD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1485.m3u8
+
+#EXTINF:0 group-title="(US) United States",CBS | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1510.m3u8
+
+#EXTINF:0 group-title="(US) United States",CBSN | HD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1462.m3u8
+
+#EXTINF:0 group-title="(US) United States",CBSN | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1521.m3u8
+
+#EXTINF:0 group-title="(US) United States",CHCH | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1482.m3u8
+
+#EXTINF:0 group-title="(US) United States",COLORS TV | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1830.m3u8
+
+#EXTINF:0 group-title="(US) United States",COMEDY CENTRAL | HD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1540.m3u8
+
+#EXTINF:0 group-title="(US) United States",CORNERSTONE TV | SD (US)
+http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/chunklist_w1852678767_b2328000_sleng.m3u8
+
+#EXTINF:0 group-title="(US) United States",CRIME AND INVESTIGATION | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1511.m3u8
+
+#EXTINF:0 group-title="(US) United States",DISCOVERY VELOCITY | HD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1529.m3u8
+
+#EXTINF:0 group-title="(US) United States",E TV | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1531.m3u8
+
+#EXTINF:0 group-title="(US) United States",ESPERANZA TV ES | SD (US)
+http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
+
+#EXTINF:0 group-title="(US) United States",FAMLY | HD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1495.m3u8
+
+#EXTINF:0 group-title="(US) United States",FLOWERS | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1749.m3u8
+
+#EXTINF:0 group-title="(US) United States",FOX 24 | HD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1509.m3u8
+
+#EXTINF:0 group-title="(US) United States",FOX ACTION | HD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1441.m3u8
+
+#EXTINF:0 group-title="(US) United States",FREE FROM | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1448.m3u8
+
+#EXTINF:0 group-title="(US) United States",FREE ROM | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1465.m3u8
+
+#EXTINF:0 group-title="(US) United States",FXX | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1490.m3u8
+
+#EXTINF:0 group-title="(US) United States",GEB | SD (US)
+http://184.173.203.50:1935/live/smil:geb/chunklist.m3u8
+
+#EXTINF:0 group-title="(US) United States",GOOD LIFE 45 | SD (US)
+http://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/playlist.m3u8
+
+#EXTINF:0 group-title="(US) United States",HALLMARK CHANNEL | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1528.m3u8
+
+#EXTINF:0 group-title="(US) United States",HBO 1 | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1433.m3u8
+
+#EXTINF:0 group-title="(US) United States",HBO SIGNATURE | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1517.m3u8
+
+#EXTINF:0 group-title="(US) United States",HISCHANNEL | SD (US)
+http://www1.hischannel.com/Box-Tv-Live/BoxTvLive.isml/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:0 group-title="(US) United States",HOUSE OF YAHWEH | SD (US)
+http://198.57.164.156:1935/live/SermonLoop/chunklist_w1535326969.m3u8
+
+#EXTINF:0 group-title="(US) United States",JAYA MAX | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2976.m3u8
+
+#EXTINF:0 group-title="(US) United States",JRES TV ES | SD (US)
+http://teleredmcp.com:1935/jrestv/jrestv/chunklist_w1193494329.m3u8
+
+#EXTINF:0 group-title="(US) United States",KTV | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2953.m3u8
+
+#EXTINF:0 group-title="(US) United States",LIFE TIME | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1432.m3u8
+
+#EXTINF:0 group-title="(US) United States",LIFEVISION TV | SD (US)
+http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
+
+#EXTINF:0 group-title="(US) United States",MIAMI TV | SD (US)
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+
+#EXTINF:0 group-title="(US) United States",MORE MAX | HD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1460.m3u8
+
+#EXTINF:0 group-title="(US) United States",MSNBC | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1447.m3u8
+
+#EXTINF:0 group-title="(US) United States",NATGEO WILD | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1484.m3u8
+
+#EXTINF:0 group-title="(US) United States",NBC LIVE | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1501.m3u8
+
+#EXTINF:0 group-title="(US) United States",NETWORK | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1498.m3u8
+
+#EXTINF:0 group-title="(US) United States",NRB NETWORK | SD (US)
+http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+
+#EXTINF:0 group-title="(US) United States",OWN | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1493.m3u8
+
+#EXTINF:0 group-title="(US) United States",QVC | SD (US)
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/chunklist_b4192000.m3u8
+
+#EXTINF:0 group-title="(US) United States",QVC 2 | SD (US)
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/1af4a53fda904f6c90a4389c8fe92dc0/chunklist_b4192000.m3u8
+
+#EXTINF:0 group-title="(US) United States",SEC NETWORK | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1463.m3u8
+
+#EXTINF:0 group-title="(US) United States",SHOWTIME | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1480.m3u8
+
+#EXTINF:0 group-title="(US) United States",SHOWTIME EXTREME | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1539.m3u8
+
+#EXTINF:0 group-title="(US) United States",SKY 5 | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/480.m3u8
+
+#EXTINF:0 group-title="(US) United States",SPIKE | HD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1442.m3u8
+
+#EXTINF:0 group-title="(US) United States",SPIRIT TELEVISION | SD (US)
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:spirit_all/playlist.m3u8
+
+#EXTINF:0 group-title="(US) United States",STAR PLUSE | HD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1753.m3u8
+
+#EXTINF:0 group-title="(US) United States",STARZ COMEDY | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1537.m3u8
+
+#EXTINF:0 group-title="(US) United States",STARZ EAST | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1450.m3u8
+
+#EXTINF:0 group-title="(US) United States",STARZ EDGE | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1438.m3u8
+
+#EXTINF:0 group-title="(US) United States",STARZ ENCORE | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1524.m3u8
+
+#EXTINF:0 group-title="(US) United States",SUPER CHANNEL | SD (US)
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-128/mp4:wacx/playlist.m3u8
+
+#EXTINF:0 group-title="(US) United States",TBS | HD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1506.m3u8
+
+#EXTINF:0 group-title="(US) United States",TELEDUNAMIS ES | SD (US)
+http://f.dc.edge.2.christianworldmedia.com:1935/teledunamis/mp4:teledunamis/playlist.m3u8
+
+#EXTINF:0 group-title="(US) United States",TELEVISION ESNE | SD (US)
+http://198.154.228.82:1935/esne-live/smil:esnetv.smil/chunklist_w431608397_b1298000_sleng.m3u8
+
+#EXTINF:0 group-title="(US) United States",TMN ACTION | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1471.m3u8
+
+#EXTINF:0 group-title="(US) United States",TRUTV | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1477.m3u8
+
+#EXTINF:0 group-title="(US) United States",TV LT | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2602.m3u8
+
+#EXTINF:0 group-title="(US) United States",UDAYA TV | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/3059.m3u8
+
+#EXTINF:0 group-title="(US) United States",VICTORY TELEVISION NETWORK | SD (US)
+http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8
+
+#EXTINF:0 group-title="(US) United States",W NETWORK | HD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1532.m3u8
+
+#EXTINF:0 group-title="(US) United States",WGN 9 | HD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1515.m3u8
+
+#EXTINF:0 group-title="(US) United States",ZEE KANADA | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2968.m3u8
+
+#EXTINF:0 group-title="(US) United States",ZEE TALKIES | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1804.m3u8
+
+#EXTINF:0 group-title="(US) United States",ZEE TV | HD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1781.m3u8
+
+#EXTINF:0 group-title="(US) United States",ZING | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1819.m3u8
+
+#EXTINF:0 group-title="(US) United States",ZING TV | SD (US)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2948.m3u8
+
+#EXTINF:0 group-title="(WW) World Wide",AL AOULA | SD (WW)
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+
+#EXTINF:0 group-title="(WW) World Wide",ANTENA 3 | SD (WW)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1000.m3u8
+
+#EXTINF:0 group-title="(WW) World Wide",CDM PUERTO RICO | SD (WW)
+http://205.164.56.130:1935/marcos536/marcos536/playlist.m3u8
+
+#EXTINF:0 group-title="(WW) World Wide",DISCOVERY | HD (WW)
+http://tv.factoryiptv.com:80/live/joaquim/joaquim/38387.m3u8
+
+#EXTINF:0 group-title="(WW) World Wide",DISCOVERY | SD (WW)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1499.m3u8
+
+#EXTINF:0 group-title="(WW) World Wide",DISCOVERY | SD (WW)
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
+
+#EXTINF:0 group-title="(WW) World Wide",HBO 2 | SD (WW)
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
+#EXTINF:0 group-title="(WW) World Wide",HUM PK | SD (WW)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1789.m3u8
+
+#EXTINF:0 group-title="(WW) World Wide",OSN STAR | SD (WW)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2427.m3u8
+
+#EXTINF:0 group-title="(WW) World Wide",PTV PK | SD (WW)
+http://ipsatpro.com:8080/live/ivan003/ivan003/2994.m3u8
+
+#EXTINF:0 group-title="(WW) World Wide",TRAVEL CHANNEL | SD (WW)
+http://ipsatpro.com:8080/live/ivan003/ivan003/1956.m3u8
